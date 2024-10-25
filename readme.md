@@ -45,11 +45,13 @@ pip install -r requirements.txt
 ```
 ### Usage
 **TUI Mode**
+#TODO finish instructions for TUI Mode
 **Controls**
+#TODO finish controls instructions 
 **Command Line Mode**
-
-
+#TODO finish commandline mode instructions
 ### Available Scenes
+#TODO I think i want to be able to have more dynamic themes, but i might do that later
 | Scene | Description | Colors |
 |--------|-------------|---------|
 | Nature | Earthy, calming tones | Dark Brown, Moss Green, Jade |
