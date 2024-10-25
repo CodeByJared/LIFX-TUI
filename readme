@@ -50,7 +50,6 @@ pip install -r requirements.txt
 #TODO finish controls instructions 
 **Command Line Mode**
 #TODO finish commandline mode instructions
-
 ### Available Scenes
 #TODO I think i want to be able to have more dynamic themes, but i might do that later
 | Scene | Description | Colors |
