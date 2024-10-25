@@ -44,11 +44,11 @@ cd lifx_controller
 pip install -r requirements.txt
 ```
 ### Usage
-**TUI Mode**
+- **TUI Mode**
 #TODO finish instructions for TUI Mode
-**Controls**
+- **Controls**
 #TODO finish controls instructions 
-**Command Line Mode**
+- **Command Line Mode**
 #TODO finish commandline mode instructions
 ### Available Scenes
 #TODO I think i want to be able to have more dynamic themes, but i might do that later
