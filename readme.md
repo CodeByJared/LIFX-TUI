@@ -54,10 +54,10 @@ pip install -r requirements.txt
 #TODO I think i want to be able to have more dynamic themes, but i might do that later
 | Scene | Description | Colors |
 |--------|-------------|---------|
-| Nature | Earthy, calming tones | Dark Brown, Moss Green, Jade |
-| Ocean | Cool, aquatic atmosphere | Sea Green, Celadon, White |
-| Sunset | Warm, evening ambiance | Mulberry, Tangerine, Yellow |
-| Movie | Cinema-optimized lighting | Dim Black, Off, Dim Black |
-| Lime | Fresh, energetic feel | Mint, Light Green, Sage |
-| Game | Gaming-optimized lighting | Blue, Vista Blue, Saffron |
-| Night | Gentle, evening mode | Soft Black (which is really white) across all lights |
+| 🌿 Nature | Earthy, calming tones | Dark Brown, Moss Green, Jade |
+| 🌊 Ocean | Cool, aquatic atmosphere | Sea Green, Celadon, White |
+| 🌅 Sunset | Warm, evening ambiance | Mulberry, Tangerine, Yellow |
+| 🎬 Movie | Cinema-optimized lighting | Dim Black, Off, Dim Black |
+| 🍋 Lime | Fresh, energetic feel | Mint, Light Green, Sage |
+| 🎮 Game | Gaming-optimized lighting | Blue, Vista Blue, Saffron |
+| 🌙 Night | Gentle, evening mode | Soft Black (which is really white) across all lights |
