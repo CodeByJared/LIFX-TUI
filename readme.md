@@ -43,6 +43,7 @@ cd lifx_controller
 ```bash
 pip install -r requirements.txt
 ```
+
 ### Usage
 - **TUI Mode**
 #TODO finish instructions for TUI Mode
