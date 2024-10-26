@@ -46,13 +46,13 @@ pip install -r requirements.txt
 
 ### Usage
 - **TUI Mode**
-#TODO finish instructions for TUI Mode
+
 - **Controls**
-#TODO finish controls instructions 
+
 - **Command Line Mode**
-#TODO finish commandline mode instructions
+
 ### Available Scenes
-#TODO I think i want to be able to have more dynamic themes, but i might do that later
+
 | Scene | Description | Colors |
 |--------|-------------|---------|
 | 🌿 Nature | Earthy, calming tones | Dark Brown, Moss Green, Jade |
@@ -62,3 +62,9 @@ pip install -r requirements.txt
 | 🍋 Lime | Fresh, energetic feel | Mint, Light Green, Sage |
 | 🎮 Game | Gaming-optimized lighting | Blue, Vista Blue, Saffron |
 | 🌙 Night | Gentle, evening mode | Soft Black (which is really white) across all lights |
+
+### TODO
+- Instructions for TUI Mode, Controls, CLI Mode
+- Make scenes have a dynamic mode
+- Better real-time color preview
+- AUR package (Coming soon?)
