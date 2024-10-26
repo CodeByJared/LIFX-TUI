@@ -4,7 +4,7 @@
 
 A powerful, terminal-based controller for LIFX smart lights featuring an intuitive Text User Interface (TUI) and scene management system.
 
-![TUI Screenshot](screenshot.png) # TODO take a screenshot (lmao maybe rice my terminal so it looks good)
+![TUI Screenshot](images/screenshot.png)
 
 ## ✨ Features
 
